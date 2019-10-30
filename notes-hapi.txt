@@ -1,0 +1,12 @@
+https://www.thepolyglotdeveloper.com/2019/02/using-hapijs-mongoose-mongodb-build-rest-api/
+
+
+npm init -y
+npm install hapi joi mongoose --save
+
+
+la ver .tgz (chequear la documentacion de mongodb)
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu-tarball/
+
+linea de mierda que me hizo demorar 3 horas
+->$            sudo apt install mongodb-clients
